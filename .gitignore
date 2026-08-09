@@ -1,0 +1,5 @@
+baykar_env/
+__pycache__/
+*.mp4
+*.pt
+speed_violation_images/
